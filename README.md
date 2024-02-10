@@ -1,6 +1,6 @@
 # API PHP
 
-Uma API desenvolvida em PHP para demonstrar a aplicação de conhecimentos avançados em desenvolvimento back-end, incluindo autenticação, interação com banco de dados, e padrões de design de API.
+Uma API desenvolvida em PHP para demonstrar a aplicação de conhecimentos em desenvolvimento back-end, incluindo autenticação, interação com banco de dados, e padrões de design de API.
 
 ## Visão Geral
 
